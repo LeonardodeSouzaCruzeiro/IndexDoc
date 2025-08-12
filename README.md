@@ -4,7 +4,7 @@
 Plataforma de automação documental com exportação automática, OCR e indexação dinâmica.
 
 ## 🚀 Funcionalidades
-- Exportação de PDF com assinatura
+- Exportação de PDF com assinatura ICP-Brasil
 - Extração de texto inteligente
 - Indexação dinâmica
 - Criação de fluxos de trabalho
